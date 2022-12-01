@@ -1,4 +1,4 @@
-# reatful_shopapp
+# Shop App With Rest
 App was made by using technology stack:
 - Flutter - to make mobile app
 - React - to make frontend
